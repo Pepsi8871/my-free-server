@@ -4,5 +4,6 @@
   "postCreateCommand": "npm install",
   "settings": {
     "terminal.integrated.defaultProfile.linux": "bash"
-  }
+  },
+  "postStartCommand": "npm start"
 }
